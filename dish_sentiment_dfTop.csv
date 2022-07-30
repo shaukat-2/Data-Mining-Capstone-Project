@@ -1,0 +1,106 @@
+Dish_Name,Sentiment,Review_Count
+rice,Excellent,2819
+naan,Excellent,2548
+tikka masala,Excellent,929
+chicken tikka,Excellent,914
+garlic naan,Excellent,889
+dal,Excellent,693
+samosa,Excellent,679
+chicken tikka masala,Excellent,709
+dosa,Good,346
+vindaloo,Excellent,399
+tandoori chicken,Excellent,458
+korma,Excellent,396
+gur,Excellent,350
+biryani,Good,293
+saag,Excellent,332
+butter chicken,Excellent,221
+rice pudding,Excellent,168
+kofta,Excellent,152
+palak paneer,Excellent,157
+papad,Excellent,136
+gulab jamun,Excellent,137
+lamb curry,Excellent,131
+roti,Excellent,108
+chaat,Excellent,84
+daal,Excellent,100
+kheer,Excellent,83
+sambar,Excellent,88
+chana masala,Excellent,88
+papadum,Excellent,83
+ice cream,Excellent,82
+masala dosa,Excellent,78
+paratha,Excellent,68
+aloo gobi,Excellent,71
+idli,Good,63
+rogan josh,Excellent,67
+vada,Excellent,57
+halwa,Excellent,50
+paneer tikka masala,Excellent,53
+bhaji,Excellent,46
+fish curry,Excellent,38
+lamb biryani,Good,38
+keema,Excellent,34
+iced tea,Good,36
+mixed vegetable,Excellent,32
+tomato soup,Excellent,32
+fried rice,Excellent,34
+shahi paneer,Excellent,28
+dal makhani,Excellent,29
+mango chutney,Excellent,32
+bhindi masala,Excellent,28
+aloo tikki,Excellent,28
+flat bread,Excellent,28
+poori,Neutral,26
+rasam,Good,23
+papadam,Excellent,22
+paneer masala,Excellent,26
+momo,Excellent,15
+tomato sauce,Good,25
+chicken 65,Excellent,20
+brown rice,Excellent,19
+salad bar,Excellent,22
+chicken wings,Excellent,19
+pani puri,Excellent,12
+onion pakora,Excellent,14
+chapati,Good,15
+coconut chicken,Excellent,13
+uttapam,Good,13
+red rice,Excellent,11
+pongal,Good,9
+paneer butter masala,Neutral,10
+aloo matar,Excellent,7
+bhatura,Excellent,8
+parotta,Excellent,6
+pav bhaji,Excellent,6
+litti,Good,6
+mushroom matar,Excellent,5
+bonda,Excellent,5
+phirni,Excellent,4
+sabzi,Excellent,4
+chole bhature,Excellent,3
+khar,Excellent,4
+navrattan korma,Excellent,3
+varuval,Good,2
+rajma,Good,4
+orange chicken,Good,4
+dhokla,Excellent,2
+olan,Excellent,3
+alu gobi,Excellent,2
+vada pav,Excellent,2
+gajar ka halwa,Excellent,3
+paniyaram,Excellent,1
+panipuri,Excellent,2
+avial,Excellent,2
+dahi vada,Excellent,2
+hyderabadi biryani,Excellent,2
+luchi,Excellent,2
+jalebi,Neutral,2
+payasam,Excellent,1
+peda,Excellent,1
+attu,Excellent,1
+shrikhand,Excellent,1
+pachadi,Excellent,1
+barfi,Excellent,1
+bisi bele bath,Excellent,1
+karnataka,Good,1
