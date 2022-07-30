@@ -69,7 +69,7 @@ else:
         sentiment_image = "Negative.png"
     elif (pol > 0.4 and pol <= 0.6):
         sentiment = 'Neutral'
-        sentiment_image = "Neutral.png"
+        sentiment_image = "Neutral.PNG"
     elif (pol > 0.6 and pol <= 0.8):
         sentiment = 'Good'
         sentiment_image = "positive.png"
