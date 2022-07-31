@@ -161,7 +161,7 @@ if submit:
         c2, c3 = st.columns([3,7], gap='small')
     
         with st.container():
-            col1.metric("Hygeine Inspection Test Passing Probability", output_string)
+            col1.metric("Hygiene Inspection Test Passing Probability", output_string)
             col2.metric("Review Sentiment", sentiment)
             col3.image(sentiment_image, width = 100)
             c2.markdown(hide_table_row_index, unsafe_allow_html=True)
